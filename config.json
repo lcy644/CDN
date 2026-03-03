@@ -1,1 +1,1 @@
-{"setting":{"theme":{"version":202603010,"isDarkMode":true}},"data":{"geo":{"version":202603010,"url":"https://cdn.jsdelivr.net/gh/lcy644/cdn@202603010/geo/v1.0.0.zip","type":"zip","path":"./","files":["china_cities.json","china_cities_geojson.json"]}}}
+{"setting":{"theme":{"version":202603010,"isDarkMode":true}},"data":{"geo":{"version":202603040,"url":"https://cdn.jsdelivr.net/gh/lcy644/cdn@202603040/geo/v1.1.0.zip","type":"zip","path":"./","files":["china_cities.json","china_cities_geojson.json","china_provinces_geojson.json"]}}}
