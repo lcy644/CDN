@@ -1,10 +1,11 @@
 {
     "setting": {
         "theme": {
-            "version": 202603050,
+            "version": 202603080,
             "isDarkMode": true,
             "boundaryLevel": "city",
             "showCityPoints": true,
+            "enableMapPoi": false,
             "enableRuntimeLogs": false
         }
     },
